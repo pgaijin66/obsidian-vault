@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/mTLS.md",
+                "file": "Fix these/004_PROGRAMMING/Auth/PASETO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/mTLS.md",
+                "file": "Fix these/004_PROGRAMMING/Auth/PASETO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/mTLS.md",
+                "file": "Fix these/004_PROGRAMMING/Auth/PASETO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/mTLS.md"
+                "file": "Fix these/004_PROGRAMMING/Auth/PASETO.md"
               }
             }
           },
@@ -187,8 +187,20 @@
   },
   "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
-    "2. Literature Notes/Tips on being.md",
+    "Fix these/004_PROGRAMMING/Auth/OIDC.md",
+    "Fix these/004_PROGRAMMING/Auth/OAuth.md",
+    "Fix these/004_PROGRAMMING/Auth/JWT.md",
+    "Fix these/004_PROGRAMMING/Auth/Cookies.md",
+    "Fix these/004_PROGRAMMING/Auth/Basic auth.md",
+    "Fix these/004_PROGRAMMING/API/HATEOAS.md",
+    "Fix these/004_PROGRAMMING/API/API Security.md",
+    "Fix these/004_PROGRAMMING/API/API Design.md",
+    "Fix these/004_PROGRAMMING/API/API Authentication and Authorization.md",
+    "Fix these/003_Youtube/Youtube video.md",
+    "2. Literature Notes/Zettlekasten Method.md",
+    "2. Literature Notes/Toil.md",
     "2. Literature Notes/mTLS.md",
+    "2. Literature Notes/Tips on being.md",
     "4. Projects/Blog posts/Are you okay JOSE ?.md",
     "3. Permanent Notes/005_SRE/Backup and restoration strategies..md",
     "4. Projects/Blog posts/OAuth2, Auth0, ODIC, SAML, JWT,.md",
@@ -207,21 +219,9 @@
     "Fix these/Untitled 1.canvas",
     "Fix these/Screenshot 2023-09-22 at 3.44.24 PM.png",
     "Fix these/Screenshot 2023-09-22 at 3.43.46 PM.png",
-    "Fix these/README.md",
     "Fix these/Pasted image 20230609114641.png",
-    "Fix these/Neurology/Therapy.md",
-    "Fix these/Neurology/Radical acceptance.md",
-    "Fix these/Neurology/RAIN - Self compassion.md",
-    "Fix these/Neurology/Neuroplasticity.md",
-    "Fix these/Neurology/Neurodivergent.md",
     "Fix these/Neurology",
-    "Fix these/Knowledge management/Zettelkasten Method.md",
-    "Fix these/Knowledge management/Fynneman technique.md",
-    "Fix these/Knowledge management/Collector's Fallacy.md",
-    "Fix these/Knowledge management/5 Why - Root cause identification.md",
-    "Fix these/Knowledge management/Barbell Method of Reading.md",
     "Fix these/Knowledge management",
-    "Fix these/Kanban/YT.md",
     "Fix these/Kanban",
     "Fix these/Interview Questions/SRE",
     "Fix these/Interview Questions/Backend Developer",
