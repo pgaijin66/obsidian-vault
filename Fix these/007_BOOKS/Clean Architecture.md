@@ -1,3 +1,8 @@
+
+Type: #MOC
+Tags:
+# Clean Architecture
+
 Chapter 1 and 2
 
 [[What is Design and Architecture ?]]

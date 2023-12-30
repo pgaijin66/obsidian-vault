@@ -1,4 +1,7 @@
 
+Type: #MOC
+Tags:
+
 - [ ] [[Clean Architecture]]
 - [ ] [[How Linux works]]
 - [ ] [[Cloud native Golang]]

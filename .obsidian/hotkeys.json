@@ -70,5 +70,13 @@
       ],
       "key": "T"
     }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
