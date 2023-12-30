@@ -1,0 +1,4 @@
+- Space complexity is a measure of how much additional memory or space an algorithm requires to run as a function of the input size. 
+- It quantifies the maximum amount of memory used by an algorithm during its execution. 
+- It helps in analyzing the memory requirements of an algorithm and determining if it can be executed within the available memory. 
+- Similar to time complexity, space complexity is denoted using O-notation, Ω-notation, or Θ-notation.

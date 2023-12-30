@@ -1,0 +1,14 @@
+
+- [ ] Clone both repo
+- [ ] `cd DST`
+- [ ] DST : `rsync -av SRC_PATH/* . --exclude .git`
+- [ ] verify
+- [ ] `code .`
+- [ ] sanitization
+	- [ ] check for password
+	- [ ] secrets
+	- [ ] tokens
+- [ ] `git add`
+- [ ] git commit
+- [ ] git push
+- [ ] touch README.md

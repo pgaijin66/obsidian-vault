@@ -1,0 +1,5 @@
+- Paradigm overview
+- Structured programming
+- object oriented programming
+- functional programming
+-
