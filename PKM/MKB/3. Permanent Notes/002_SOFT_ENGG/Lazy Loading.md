@@ -1,8 +1,0 @@
-- It is a mechanism which defers loading of a resource until the point is it needed. 
-- Instead of loading all the resources when application starts, lazy loading allows you to load them on-demand
-- Usage:
-	- images
-	- database query optimization
-	- caching
-	- dependency injection
-	- 

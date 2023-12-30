@@ -1,2 +1,0 @@
-
-I have over 5 years of experience in building and maintaining large scale complex systems.. I have strog background in system engineering and software backend development. I am skilled in deployment and management of production systems. I ams also experieced in designing and implemtningh monitoring and alerting systems. i have a deep udnerstanding of distributed systems and networking system performance. i excel in a fast apced high pressure enviroment and am always looking ways to improve system and uptime and reliabilityu

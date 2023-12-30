@@ -1,1 +1,0 @@
-https://cloud.google.com/blog/products/management-tools/practical-guide-to-setting-slos

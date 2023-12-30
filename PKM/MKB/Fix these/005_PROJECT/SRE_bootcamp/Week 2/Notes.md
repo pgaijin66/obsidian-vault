@@ -1,6 +1,0 @@
-Lecture
-
-Labs
-
-Notes
-

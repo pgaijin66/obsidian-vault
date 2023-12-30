@@ -1,3 +1,0 @@
-ChaCha20 is like a secret code that scrambles your message. It takes your message and mixes up all the letters and numbers in a special way. It's like doing a big jumble with your message so that it becomes really hard for anyone else to understand it. But don't worry, your friend will still be able to unscramble it because they have the special key that unlocks the code.
-
-ChaCha20 is a symmetric encryption algorithm. It takes a secret key and a unique value called a nonce, and uses them to transform plaintext (your original message) into ciphertext (scrambled message). It operates on blocks of data, mixing and shuffling the bits in a specific pattern. This process makes it extremely difficult for anyone without the key to understand or decipher the encrypted message.

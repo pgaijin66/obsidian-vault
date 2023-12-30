@@ -1,5 +1,0 @@
-- Resources are loaded as soon as the application starts or when a particular context is initialized. 
-- This ensures all necessary resources are available immediately
-- Usage:
-	- When application knows in advance that it will need a certain resource and wants to ensure it is available without delay
-	- 
