@@ -1,0 +1,11 @@
+
+- [ ] Linux Foundation Certified System Administrator
+- [ ] Certified Kubernetes Administrator or Kubernetes and Cloud-Native Associate
+- [ ] Red Hat Certified Specialist in Ceph Storage Administration
+- [ ] Docker Certified Associate
+- [ ] Red Hat Certified Specialist in Ansible Automation
+- [ ] HashiCorp Certified Terraform Associate
+- [ ] Certified Systems Engineering Professional
+- [ ] AWS DevOps / SecOps
+- [ ] Hashicorp Terraform / Vault
+- [ ] Prometheus

@@ -1,0 +1,16 @@
+
+-   Adjectives
+-   API Security
+-   Bulk and Batch
+-   Caching
+-   Deleting Resources
+-   Error Handling
+-   Extended Resource Lifecycle
+-   Functional Endpoints
+-   Idempotency
+-   Pagination
+-   Sitemap
+-   Singleton Resources
+-   Transactional Resources
+-   Versioning
+-   Zoom/Embed
