@@ -6,6 +6,10 @@ What business problems have you solved using those technologies?
 
 Compare and contrast your 2017 bullet point "created data pipelines using AWS Kinesis and S3" with your 2022 list of technologies.
 
+```nomnoml
+[<start>start] -> [<state>plunder]
+```
+
 The former tells more about your actual experience and what sorts of problems you've solved. The latter might be someone who once used a prebuilt terraform module to deploy an AKS cluster, but even that is just guesswork.
 
 It sounds like you are a freelance contractor in the latter role. So how many clients did you work with? Generally, what business problems did you solve for them and at what scale? Can you attach broad metrics to that?

@@ -78,5 +78,13 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-nomnoml-diagram:insert-nomnoml-code-fence": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
