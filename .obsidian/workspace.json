@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc16f48967d3031",
+        "id": "e23a0c23571a30a5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e5071bbbd9d34e",
+            "id": "3379c8e2c66d16ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/mTLS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/mTLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/mTLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/mTLS.md"
+              }
             }
           },
           {
@@ -176,8 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e5071bbbd9d34e",
+  "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
+    "2. Literature Notes/Tips on being.md",
+    "2. Literature Notes/mTLS.md",
     "4. Projects/Blog posts/Are you okay JOSE ?.md",
     "3. Permanent Notes/005_SRE/Backup and restoration strategies..md",
     "4. Projects/Blog posts/OAuth2, Auth0, ODIC, SAML, JWT,.md",
@@ -212,8 +223,6 @@
     "Fix these/Knowledge management",
     "Fix these/Kanban/YT.md",
     "Fix these/Kanban",
-    "Fix these/Interview Questions/SRE/SRE Interview q.md",
-    "Fix these/Interview Questions/Backend Developer/Backend developer interview questions.md",
     "Fix these/Interview Questions/SRE",
     "Fix these/Interview Questions/Backend Developer",
     "Fix these/Interview Questions",
