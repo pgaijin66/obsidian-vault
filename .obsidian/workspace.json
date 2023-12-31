@@ -13,25 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/001_CAREER/Resume/Review.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9705abab588da718",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "844c3fa92548fb59",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/001_CAREER/Resume/Review.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/001_CAREER/Resume/Review.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/001_CAREER/Resume/Review.md"
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md"
               }
             }
           },
@@ -203,8 +189,10 @@
   },
   "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
-    "5. Presentations/Untitled.md",
     "3. Permanent Notes/001_CAREER/Resume/Review.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker",
+    "5. Presentations/Untitled.md",
     "5. Presentations",
     "Fix these/004_PROGRAMMING/Component Coupling.md",
     "Fix these/007_BOOKS/Clean Architecture.md",
@@ -230,8 +218,6 @@
     "3. Permanent Notes/005_SRE/Backup and restoration strategies..md",
     "4. Projects/Blog posts/OAuth2, Auth0, ODIC, SAML, JWT,.md",
     "3. Permanent Notes/002_SOFT_ENGG/Backend development/Go/Advanced Go techniques.md",
-    "3. Permanent Notes/002_SOFT_ENGG/API Design Guidelines.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Untitled",
     "3. Permanent Notes/005_SRE/System Design",
     "Fix these/Untitled.canvas",
     "Fix these/Untitled 1.canvas",
