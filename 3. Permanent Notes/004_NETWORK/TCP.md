@@ -1,4 +1,3 @@
-
 ### Sliding window mechanism
 #TODO
 

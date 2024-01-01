@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
+                "file": "3. Permanent Notes/System Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
+                "file": "3. Permanent Notes/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
+                "file": "3. Permanent Notes/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md"
+                "file": "3. Permanent Notes/System Design.md"
               }
             }
           },
@@ -187,10 +187,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3379c8e2c66d16ee",
+  "active": "0ebf18da582c35cb",
   "lastOpenFiles": [
-    "3. Permanent Notes/001_CAREER/Resume/Review.md",
+    "3. Permanent Notes/005_SRE/Hardware/Server Building.md",
+    "3. Permanent Notes/005_SRE/Security ( MOC ).md",
+    "3. Permanent Notes/Project.md",
+    "3. Permanent Notes/005_SRE/Qualcomm.md",
+    "3. Permanent Notes/005_SRE/SRE DOCS/Backup and restoration strategies..md",
     "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
+    "3. Permanent Notes/005_SRE/AWS",
+    "3. Permanent Notes/005_SRE/Protocol and Technology/Containers and Docker.md",
+    "3. Permanent Notes/005_SRE/Protocol and Technology/CDN.md",
+    "3. Permanent Notes/004_NETWORK/TCP.md",
+    "3. Permanent Notes/005_SRE/SRE ( MOC ).md",
+    "3. Permanent Notes/001_CAREER/Resume/Review.md",
     "3. Permanent Notes/002_SOFT_ENGG/Docker",
     "5. Presentations/Untitled.md",
     "5. Presentations",
@@ -209,15 +219,6 @@
     "Fix these/004_PROGRAMMING/API/API Security.md",
     "Fix these/004_PROGRAMMING/API/API Design.md",
     "Fix these/004_PROGRAMMING/API/API Authentication and Authorization.md",
-    "Fix these/003_Youtube/Youtube video.md",
-    "2. Literature Notes/Zettlekasten Method.md",
-    "2. Literature Notes/Toil.md",
-    "2. Literature Notes/mTLS.md",
-    "2. Literature Notes/Tips on being.md",
-    "4. Projects/Blog posts/Are you okay JOSE ?.md",
-    "3. Permanent Notes/005_SRE/Backup and restoration strategies..md",
-    "4. Projects/Blog posts/OAuth2, Auth0, ODIC, SAML, JWT,.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/Go/Advanced Go techniques.md",
     "3. Permanent Notes/005_SRE/System Design",
     "Fix these/Untitled.canvas",
     "Fix these/Untitled 1.canvas",
@@ -229,7 +230,6 @@
     "Fix these/Kanban",
     "Fix these/Interview Questions/SRE",
     "Fix these/Interview Questions/Backend Developer",
-    "Fix these/Interview Questions",
     "99. Attachments/Screenshot 2023-10-13 at 9.37.45 AM.png",
     "99. Attachments/Screenshot 2023-10-13 at 9.28.03 AM.png",
     "Screenshot 2023-05-21 at 9.53.24 AM.png",
