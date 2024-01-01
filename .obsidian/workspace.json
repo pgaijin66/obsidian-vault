@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
+                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
+                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
+                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md"
+                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
-    "3. Permanent Notes/002_SOFT_ENGG/Go/CSRF.md",
+    "3. Permanent Notes/005_SRE/To study.md",
+    "3. Permanent Notes/007_IMPORTANT_RESOURCES/Hiring and Project.md",
+    "3. Permanent Notes/005_SRE/SRE DOCS/Backup and restoration strategies..md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/CSRF.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Refresh token.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Caching.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Sorting.md",
@@ -205,15 +208,12 @@
     "3. Permanent Notes/007_IMPORTANT_RESOURCES",
     "3. Permanent Notes/005_SRE/SRE Interview Questions ( MOC ).md",
     "3. Permanent Notes/005_SRE/AWS/AWS PenTest Checklist.md",
-    "3. Permanent Notes/005_SRE/To study.md",
     "3. Permanent Notes/005_SRE/Teleport.md",
     "3. Permanent Notes/System Design.md",
     "3. Permanent Notes/005_SRE/Workable companies.md",
     "3. Permanent Notes/005_SRE/Hardware/Server Building.md",
     "3. Permanent Notes/005_SRE/Security ( MOC ).md",
-    "3. Permanent Notes/Project.md",
     "3. Permanent Notes/005_SRE/Qualcomm.md",
-    "3. Permanent Notes/005_SRE/SRE DOCS/Backup and restoration strategies..md",
     "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
     "3. Permanent Notes/005_SRE/AWS",
     "3. Permanent Notes/005_SRE/Protocol and Technology/Containers and Docker.md",

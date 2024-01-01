@@ -32,6 +32,18 @@ RTO and RPO needs to be regularly accessed and reviews to ensure they align with
 - Snapshot
 - Mirror
 
+Full backup: A full backup is a complete copy of all data in the system. It typically includes all files, folders, and settings, and can be used to restore the system to its original state. This technique is useful for creating a complete snapshot of the system and can be used to recover from data loss or corruption.  
+
+Incremental backup: An incremental backup only includes data that has changed since the last full or incremental backup. This technique is more efficient than a full backup, but it requires the previous full or incremental backup in order to restore the system. Incremental backups are useful for regularly backing up data that changes frequently, such as databases or user files.  
+
+Differential backup: A differential backup includes all data that has changed since the last full backup. This technique is more efficient than a full backup, but it requires the previous full backup in order to restore the system. Differential backups are useful for regularly backing up data that changes frequently, but less so than with incremental backups.  
+
+Mirror backup: A mirror backup, also known as a disk-image backup, creates an exact copy of the system's hard drive, including all files, folders, and settings. This technique can be used to restore the system to its exact state at the time the backup was made, and is useful for creating a complete snapshot of the system.  
+
+Cloud backup: A cloud backup is a type of backup that uses cloud storage to store data. This technique allows the data to be accessed from any location and protects against data loss due to local disasters. Cloud backups are useful for protecting data against disasters and for making data accessible from anywhere.  
+
+In general, it is recommended to use a combination of different backup techniques in order to ensure that data is protected against various types of failures and disasters. **For example, you might use a full backup to create a complete snapshot of the system, and then use incremental backups to regularly back up data that changes frequently. You might also use a cloud backup to protect against data loss due to local disasters.**
+
 ### VM snapshot
 
 
