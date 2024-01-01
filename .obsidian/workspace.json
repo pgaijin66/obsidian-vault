@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3379c8e2c66d16ee",
+            "id": "0d1bf9735b9be5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fix these/002_SOFT_ENGG/System Design/System Design ( SD ).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb4b71a36c4bd37b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Backend development/Function scoping.md",
+                "file": "3. Permanent Notes/OSS Contributions/OSS Contributions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 543.5
   },
   "right": {
     "id": "bb84b05834593e44",
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fix these/002_SOFT_ENGG/System Design/System Design ( SD ).md",
+                "file": "3. Permanent Notes/OSS Contributions/OSS Contributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fix these/002_SOFT_ENGG/System Design/System Design ( SD ).md",
+                "file": "3. Permanent Notes/OSS Contributions/OSS Contributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fix these/002_SOFT_ENGG/System Design/System Design ( SD ).md"
+                "file": "3. Permanent Notes/OSS Contributions/OSS Contributions.md"
               }
             }
           },
@@ -213,49 +200,49 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3379c8e2c66d16ee",
+  "active": "0d1bf9735b9be5d9",
   "lastOpenFiles": [
-    "Fix these/002_SOFT_ENGG/DDD/DDD ( Domain Driven Design ).md",
-    "Fix these/002_SOFT_ENGG/Database/CAP.md",
-    "Fix these/002_SOFT_ENGG/Database/ACID.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/CORS.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Testing/TDD ( Test Driven Development ).md",
-    "3. Permanent Notes/002_SOFT_ENGG/Web ( MOC ).md",
-    "3. Permanent Notes/002_SOFT_ENGG/Testing/Table Driven Testing.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Untitled.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Testing",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/Lazy Loading.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/HTTP Status code.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/Currying.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/Closure.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/Caching Types.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/API Design Guidelines.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Docker/docker-compose dev.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose/Untitled.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Stack vs Heap.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Kafka.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Producer and consumer design pattern.md",
-    "3. Permanent Notes/005_SRE/Tools/Github.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Golang Options Pattern.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Adding validation layer in Go.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose Zero downtime deployment.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go",
-    "3. Permanent Notes/007_IMPORTANT_RESOURCES",
-    "3. Permanent Notes/005_SRE/AWS",
-    "3. Permanent Notes/002_SOFT_ENGG/Docker",
-    "5. Presentations",
-    "Excalidraw",
-    "3. Permanent Notes/005_SRE/System Design",
-    "Fix these/Untitled.canvas",
+    "Welcome.md",
+    "3. Permanent Notes/OSS Contributions/OSS Contributions.md",
+    "3. Permanent Notes/000_BOOKS/Clean code.md",
+    "Fix these/Pasted image 20230609114641.png",
+    "Omnivore/2023-09-20/Network File System – How to Confirm Your Application is Using NFS.md",
+    "Omnivore/2023-06-19/Say Goodbye to OOM Crashes - DZone.md",
     "Fix these/Untitled 1.canvas",
+    "Fix these/Untitled.canvas",
     "Fix these/Screenshot 2023-09-22 at 3.44.24 PM.png",
     "Fix these/Screenshot 2023-09-22 at 3.43.46 PM.png",
-    "Fix these/Pasted image 20230609114641.png",
-    "Fix these/Neurology",
+    "Fix these/Knowledge management/Zettelkasten Method.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/docker alpine dns issue.md",
+    "Fix these/Knowledge management/docker alpine dns issue.md",
+    "3. Permanent Notes/002_SOFT_ENGG/docker alpine dns issue.md",
+    "Fix these/Knowledge management/Fynneman technique.md",
+    "Fix these/Knowledge management/Collector's Fallacy.md",
+    "Fix these/Knowledge management/Barbell Method of Reading.md",
+    "Fix these/Knowledge management/5 Why - Root cause identification.md",
+    "Fix these/Kanban/YT.md",
+    "Fix these/Interview Questions/SRE/SRE Interview q.md",
+    "Fix these/Interview Questions/Backend Developer/Backend developer interview questions.md",
+    "Fix these/Braindump/words.md",
+    "Fix these/Braindump/System Performance - Brendan gregg.md",
+    "Fix these/Braindump/Stable dependencies principle SDP.md",
+    "Fix these/Braindump/SLO step by step.md",
+    "3. Permanent Notes/005_SRE/Protocol and Technology/SLO step by step.md",
+    "Fix these/Braindump/Senior sre.md",
+    "Fix these/Braindump/Screenshot 2023-05-21 at 9.53.24 AM.png.md",
+    "Fix these/Braindump/rsa.md",
+    "Fix these/Braindump/React firebase.md",
+    "Fix these/Braindump/Preso.md",
+    "3. Permanent Notes/005_SRE/Interviews/SRE",
+    "3. Permanent Notes/005_SRE/Interviews/Backend Developer",
+    "3. Permanent Notes/SRE",
+    "3. Permanent Notes/Backend Developer",
+    "3. Permanent Notes/005_SRE/Interviews",
+    "3. Permanent Notes/002_SOFT_ENGG/Time and Space Complexity",
+    "Fix these/004_PROGRAMMING/Time and Space Complexity",
+    "3. Permanent Notes/002_SOFT_ENGG/Time and Space Complexity.textClipping",
+    "3. Permanent Notes/005_SRE/Scripting/Bash",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Testing",
     "99. Attachments/Screenshot 2023-10-13 at 9.37.45 AM.png",
     "99. Attachments/Screenshot 2023-10-13 at 9.28.03 AM.png",
     "Screenshot 2023-05-21 at 9.53.24 AM.png",
