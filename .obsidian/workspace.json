@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Best Practices.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Best Practices.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Best Practices.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Best Practices.md"
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md"
               }
             }
           },
@@ -189,9 +189,16 @@
   },
   "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
+    "3. Permanent Notes/002_SOFT_ENGG/Go/CSRF.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Refresh token.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Caching.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Sorting.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/OTP.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Pagination.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Best Practices.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/AWS Golang.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Best Practices.md",
     "3. Permanent Notes/007_IMPORTANT_RESOURCES/TLS in development environment.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go",
     "1. Fleeting Notes/Wireguard.md",
@@ -211,15 +218,8 @@
     "3. Permanent Notes/005_SRE/AWS",
     "3. Permanent Notes/005_SRE/Protocol and Technology/Containers and Docker.md",
     "3. Permanent Notes/005_SRE/Protocol and Technology/CDN.md",
-    "3. Permanent Notes/004_NETWORK/TCP.md",
-    "3. Permanent Notes/005_SRE/SRE ( MOC ).md",
-    "3. Permanent Notes/001_CAREER/Resume/Review.md",
     "3. Permanent Notes/002_SOFT_ENGG/Docker",
-    "5. Presentations/Untitled.md",
     "5. Presentations",
-    "Fix these/004_PROGRAMMING/Component Coupling.md",
-    "Fix these/007_BOOKS/Clean Architecture.md",
-    "Fix these/007_BOOKS/Books.md",
     "Excalidraw",
     "3. Permanent Notes/005_SRE/System Design",
     "Fix these/Untitled.canvas",
