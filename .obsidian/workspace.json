@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md"
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md"
               }
             }
           },
@@ -189,6 +189,16 @@
   },
   "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
+    "3. Permanent Notes/002_SOFT_ENGG/Side loading.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Rate limiting.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Software Engineering ( MOC ).md",
+    "3. Permanent Notes/002_SOFT_ENGG/Table Driven Testing.md",
+    "3. Permanent Notes/002_SOFT_ENGG/TDD ( Test Driven Development ).md",
+    "3. Permanent Notes/002_SOFT_ENGG/Closure.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Caching Types.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Backend development.md",
+    "3. Permanent Notes/002_SOFT_ENGG/API Design Guidelines.md",
+    "3. Permanent Notes/005_SRE/SRE DOCS/Topics.md",
     "3. Permanent Notes/005_SRE/To study.md",
     "3. Permanent Notes/007_IMPORTANT_RESOURCES/Hiring and Project.md",
     "3. Permanent Notes/005_SRE/SRE DOCS/Backup and restoration strategies..md",
@@ -207,17 +217,7 @@
     "1. Fleeting Notes/Wireguard.md",
     "3. Permanent Notes/007_IMPORTANT_RESOURCES",
     "3. Permanent Notes/005_SRE/SRE Interview Questions ( MOC ).md",
-    "3. Permanent Notes/005_SRE/AWS/AWS PenTest Checklist.md",
-    "3. Permanent Notes/005_SRE/Teleport.md",
-    "3. Permanent Notes/System Design.md",
-    "3. Permanent Notes/005_SRE/Workable companies.md",
-    "3. Permanent Notes/005_SRE/Hardware/Server Building.md",
-    "3. Permanent Notes/005_SRE/Security ( MOC ).md",
-    "3. Permanent Notes/005_SRE/Qualcomm.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
     "3. Permanent Notes/005_SRE/AWS",
-    "3. Permanent Notes/005_SRE/Protocol and Technology/Containers and Docker.md",
-    "3. Permanent Notes/005_SRE/Protocol and Technology/CDN.md",
     "3. Permanent Notes/002_SOFT_ENGG/Docker",
     "5. Presentations",
     "Excalidraw",
