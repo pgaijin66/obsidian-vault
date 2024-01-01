@@ -237,6 +237,7 @@ services:
 
   redis:
     image: redis:latest
+    container_name: redis
     restart: always
     ports:
       - '6379:6379'
