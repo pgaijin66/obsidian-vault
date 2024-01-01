@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/docker-compose dev.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/docker-compose dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/docker-compose dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md"
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/docker-compose dev.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
-    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose/Untitled.md",
     "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/docker-compose dev.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose/Untitled.md",
     "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Stack vs Heap.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Go Kafka.md",
@@ -215,7 +216,6 @@
     "3. Permanent Notes/005_SRE/SRE DOCS/Backup and restoration strategies..md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/CSRF.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Refresh token.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go",
     "3. Permanent Notes/007_IMPORTANT_RESOURCES",
     "3. Permanent Notes/005_SRE/AWS",
