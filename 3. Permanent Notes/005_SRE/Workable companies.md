@@ -1,4 +1,0 @@
-- Teleport
-- GiantSwarm
-- Customer.io
-- 
