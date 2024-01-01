@@ -24,7 +24,7 @@ Tags:
 		5. 
 	5. REST
 	6. Consuming an API
-	7. [[Rate limiting]]
+	7. [[3. Permanent Notes/002_SOFT_ENGG/Backend development/Rate limiting]]
 	8. Throttling
 	9. Password reset API flow
 5. Functional programming concepts

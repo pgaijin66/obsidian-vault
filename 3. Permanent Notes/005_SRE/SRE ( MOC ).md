@@ -64,7 +64,7 @@ Type: #MOC
 		4. Typescript
 	2. Testing
 		1. [[TDD ( Test Driven Development )]]
-		2. [[Table Driven Testing]]
+		2. [[3. Permanent Notes/002_SOFT_ENGG/Testing/Table Driven Testing]]
 		3. 
 6. Monitoring and Observability:
 	1. Setting up monitoring systems (Prometheus, Grafana)
