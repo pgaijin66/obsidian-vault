@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md"
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md"
               }
             }
           },
@@ -189,6 +189,17 @@
   },
   "active": "3379c8e2c66d16ee",
   "lastOpenFiles": [
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose/Untitled.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker-compose.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Stack vs Heap.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Kafka.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Producer and consumer design pattern.md",
+    "3. Permanent Notes/005_SRE/Tools/Github.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Golang Options Pattern.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Adding validation layer in Go.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose Zero downtime deployment.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
     "3. Permanent Notes/002_SOFT_ENGG/Side loading.md",
     "3. Permanent Notes/002_SOFT_ENGG/Rate limiting.md",
     "3. Permanent Notes/002_SOFT_ENGG/Software Engineering ( MOC ).md",
@@ -205,18 +216,8 @@
     "3. Permanent Notes/002_SOFT_ENGG/Go/XSS.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/CSRF.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Refresh token.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Caching.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Sorting.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/OTP.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Pagination.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Best Practices.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/Go Design Pattern.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/AWS Golang.md",
-    "3. Permanent Notes/007_IMPORTANT_RESOURCES/TLS in development environment.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go",
-    "1. Fleeting Notes/Wireguard.md",
     "3. Permanent Notes/007_IMPORTANT_RESOURCES",
-    "3. Permanent Notes/005_SRE/SRE Interview Questions ( MOC ).md",
     "3. Permanent Notes/005_SRE/AWS",
     "3. Permanent Notes/002_SOFT_ENGG/Docker",
     "5. Presentations",
@@ -229,7 +230,6 @@
     "Fix these/Pasted image 20230609114641.png",
     "Fix these/Neurology",
     "Fix these/Knowledge management",
-    "Fix these/Kanban",
     "99. Attachments/Screenshot 2023-10-13 at 9.37.45 AM.png",
     "99. Attachments/Screenshot 2023-10-13 at 9.28.03 AM.png",
     "Screenshot 2023-05-21 at 9.53.24 AM.png",
