@@ -1,4 +1,6 @@
 
+## Programming 
+
 ### Good code has a lot of comments, bad code requires a lot of comments - Dave Thomas and Andrew Hunt
 
 #### Comment
@@ -22,6 +24,8 @@ Guides
 1. Rather than commenting a block of code, its better to remove or refactor it
 2. Good package name should be unique
 
+
+### Package naming
 
 Avoid package names like base, common or util
 
