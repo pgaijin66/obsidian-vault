@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Python/poetry.md",
+                "file": "3. Permanent Notes/005_SRE/AWS/IAM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Python/poetry.md",
+                "file": "3. Permanent Notes/005_SRE/AWS/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Python/poetry.md",
+                "file": "3. Permanent Notes/005_SRE/AWS/IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/Python/poetry.md"
+                "file": "3. Permanent Notes/005_SRE/AWS/IAM.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "0d1bf9735b9be5d9",
   "lastOpenFiles": [
-    "3. Permanent Notes/002_SOFT_ENGG/Python/Python3.5.md",
     "3. Permanent Notes/002_SOFT_ENGG/Python/poetry.md",
+    "3. Permanent Notes/005_SRE/AWS/IAM.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Python/Python3.5.md",
     "3. Permanent Notes/002_SOFT_ENGG/Python/Linters.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Handlers/Handlers - Healthcheck.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Handlers/Handlers - Auth.md",
@@ -227,7 +228,6 @@
     "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Request.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Random.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Redis connection , set, get value.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Password - Generate, Compare.md",
     "Fix these/Pasted image 20230609114641.png",
     "Fix these/Untitled 1.canvas",
     "Fix these/Untitled.canvas",
