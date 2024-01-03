@@ -14,7 +14,7 @@
 
 ### Dependency management
 - pip3
-- [[poetry]]
+- [[Poetry]]
 - anaconda
 #### Type hints
 ```
