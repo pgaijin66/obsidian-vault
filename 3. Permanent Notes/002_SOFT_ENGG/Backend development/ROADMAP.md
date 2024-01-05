@@ -1,0 +1,101 @@
+https://roadmap.sh/backend
+
+- Language
+	- Go
+- Version Control
+	- Git
+- Internet
+	- Web
+	- DNS
+	- TCP
+	- TLS
+- Database
+	- Postgres
+	- MongoDB
+	- MySQL
+- API
+	- REST
+	- gRPC
+	- GraphQL
+- Caching
+	- CND
+	- Server Side
+		- Redis
+	- Client Side
+		- Cookie
+		- Local Storage
+- Web Security
+	- OWASP
+	- HTTPS
+	- SSL/TLS
+	- CSP
+	- API Security
+- Testing
+	- Integration testing
+	- Unit Testing
+	- Functional testing
+- CI/CD
+- Distributed systems
+	- CAP 
+	- Database Index
+	- Sharding
+	- Replication
+	- ORM
+	- ACID
+	- Transations
+	- N+1 Problem
+	- Normalization
+	- Faliure Modes
+	- Circuit braking
+- Software design
+	- GOF Design pattern
+	- DDD
+	- TDD
+	- CQRS
+	- Event Sourcing
+- Architectural
+	- Microservice
+	- Serverless
+	- Service Mesh
+	- Twelve factor apps
+- Message Broker
+	- Kafka
+	- RabbitMQ
+- Containerization vs Virtualization
+	- Docker
+	- Kubernetes
+- Searching
+	- ELK
+- Web servers
+	- Nginx
+	- Traefik
+- Real time data
+	- Server Sent events
+	- Web sockets
+	- Long polling
+	- Short polling
+- NoSQL
+	- Document DB
+		- MongoDB
+	- Time series
+		- InfluxDB
+	- Realtime
+		- Firebase
+		- RethinkDB
+	- Column DB
+		- Cassandra
+		- HBase
+	- Key-value DB
+		- Redis
+		- DynamoDB
+	- Graph DB
+		- Neo4j
+- Building for scale
+	- Graceful degradation
+	- throttling
+	- backpressure
+	- load-shifting
+	- circuit breaking
+	- Telemetry
+		- Instrument
+- 
