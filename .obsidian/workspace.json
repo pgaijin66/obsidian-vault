@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/System design/ROADMAP.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/01. ROADMAP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/System design/ROADMAP.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/01. ROADMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/System design/ROADMAP.md",
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/01. ROADMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/002_SOFT_ENGG/System design/ROADMAP.md"
+                "file": "3. Permanent Notes/002_SOFT_ENGG/Docker/01. ROADMAP.md"
               }
             }
           },
@@ -202,8 +202,11 @@
   },
   "active": "0d1bf9735b9be5d9",
   "lastOpenFiles": [
-    "3. Permanent Notes/002_SOFT_ENGG/Backend development/ROADMAP.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Design Pattern/01. ROADMAP.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/01. ROADMAP.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Database/01. ROADMAP.md",
     "3. Permanent Notes/002_SOFT_ENGG/System design/ROADMAP.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Backend development/01. ROADMAP.md",
     "3. Permanent Notes/005_SRE/Interviews/Backend Developer/Untitled.md",
     "3. Permanent Notes/005_SRE/SRE ( MOC ).md",
     "3. Permanent Notes/005_SRE/Security ( MOC ).md",
@@ -225,9 +228,6 @@
     "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Handlers/Handlers - Auth.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/Commenting/comments.md",
     "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Version.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Validators.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/Service/Service - Auth.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Go/API - Code/MongoDB/Store interface.md",
     "Fix these/Pasted image 20230609114641.png",
     "Fix these/Untitled 1.canvas",
     "Fix these/Untitled.canvas",

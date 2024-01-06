@@ -1,9 +1,9 @@
 
-- Introction
+- Introduction
 - Performance vs Scalability
 - Latency vs throughput
 - Availability vs Consistency
-	- CAP theorm
+	- CAP theorem
 - Consistency Patterns
 	- Weak consistency
 	- Eventual consistency
