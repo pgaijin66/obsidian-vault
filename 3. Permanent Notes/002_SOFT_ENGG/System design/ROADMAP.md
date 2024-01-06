@@ -15,6 +15,9 @@
 	- Replication
 		- Master-Slave
 		- Master-Master
+	- three 9s
+	- found 9s
+	- Para
 - Background Jobs
 	- Returning results
 	- Schedule drive
