@@ -80,7 +80,7 @@ Type: #MOC
 7. Networking 
 	1. TCP/IP networking fundamentals.
 		1. DHCP
-		2. DNS
+		2. [[DNS]]
 			1. [[CoreDNS]]
 		3. [[TLS]]
 		4. [[TCP]]

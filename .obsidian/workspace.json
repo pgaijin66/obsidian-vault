@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Permanent Notes/000_BOOKS/Books.md",
+                "file": "3. Permanent Notes/005_SRE/Protocol and Technology/DNS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/000_BOOKS/Books.md",
+                "file": "3. Permanent Notes/005_SRE/Protocol and Technology/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Permanent Notes/000_BOOKS/Books.md",
+                "file": "3. Permanent Notes/005_SRE/Protocol and Technology/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Permanent Notes/000_BOOKS/Books.md"
+                "file": "3. Permanent Notes/005_SRE/Protocol and Technology/DNS.md"
               }
             }
           },
@@ -202,6 +202,14 @@
   },
   "active": "0d1bf9735b9be5d9",
   "lastOpenFiles": [
+    "3. Permanent Notes/005_SRE/SRE ( MOC ).md",
+    "3. Permanent Notes/005_SRE/Protocol and Technology/HTTP.md",
+    "3. Permanent Notes/005_SRE/Protocol and Technology/DNS.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/docker-compose dev.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/Docker-compose Zero downtime deployment.md",
+    "3. Permanent Notes/002_SOFT_ENGG/Docker/Development Environment.md",
+    "3. Permanent Notes/005_SRE/Linux Commands.md",
+    "3. Permanent Notes/000_BOOKS/Books.md",
     "3. Permanent Notes/OSS Contributions/OSS Contributions.md",
     "3. Permanent Notes/002_SOFT_ENGG/Web ( MOC ).md",
     "3. Permanent Notes/002_SOFT_ENGG/SOLID.md",
@@ -212,7 +220,6 @@
     "3. Permanent Notes/002_SOFT_ENGG/System design/ROADMAP.md",
     "3. Permanent Notes/002_SOFT_ENGG/Backend development/01. ROADMAP.md",
     "3. Permanent Notes/005_SRE/Interviews/Backend Developer/Untitled.md",
-    "3. Permanent Notes/005_SRE/SRE ( MOC ).md",
     "3. Permanent Notes/005_SRE/Security ( MOC ).md",
     "3. Permanent Notes/005_SRE/To study.md",
     "3. Permanent Notes/005_SRE/SRE Interview Questions ( MOC ).md",
@@ -221,13 +228,6 @@
     "4. Projects/Blog posts/OAuth2, Auth0, ODIC, SAML, JWT,.md",
     "4. Projects/Blog posts/Are you okay JOSE ?.md",
     "3. Permanent Notes/001_CAREER/Untitled.md",
-    "3. Permanent Notes/001_CAREER/SRE.md",
-    "3. Permanent Notes/001_CAREER/Behavior Interview.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Python/Python3.5.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Python/Poetry.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Python/Debugging.md",
-    "3. Permanent Notes/002_SOFT_ENGG/Python/Linters.md",
-    "3. Permanent Notes/005_SRE/AWS/IAM.md",
     "Fix these/Pasted image 20230609114641.png",
     "Fix these/Untitled 1.canvas",
     "Fix these/Untitled.canvas",
