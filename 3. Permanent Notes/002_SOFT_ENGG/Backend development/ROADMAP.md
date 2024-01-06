@@ -17,6 +17,14 @@ https://roadmap.sh/backend
 	- REST
 	- gRPC
 	- GraphQL
+	- JWT
+	- Basic Auth
+	- Token Auth
+	- Paseto
+	- Cookie based auth
+	- OpenID
+	- SAML
+	- OAuth
 - Caching
 	- CND
 	- Server Side
@@ -26,6 +34,12 @@ https://roadmap.sh/backend
 		- Local Storage
 - Web Security
 	- OWASP
+	- Checksum
+	- bcrypt
+	- encoding
+		- base64
+	- HAMC
+	- scrypt
 	- HTTPS
 	- SSL/TLS
 	- CSP
@@ -96,6 +110,6 @@ https://roadmap.sh/backend
 	- backpressure
 	- load-shifting
 	- circuit breaking
-	- Telemetry
-		- Instrument
+- Observability
+	- Instrument
 - 

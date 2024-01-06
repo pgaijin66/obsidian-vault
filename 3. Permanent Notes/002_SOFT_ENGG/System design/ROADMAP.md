@@ -1,0 +1,25 @@
+
+- Introction
+- Performance vs Scalability
+- Latency vs throughput
+- Availability vs Consistency
+	- CAP theorm
+- Consistency Patterns
+	- Weak consistency
+	- Eventual consistency
+	- Strong consistency
+- Availability pattern
+	- Fail Over
+		- Active-Passive
+		- Active-Active
+	- Replication
+		- Master-Slave
+		- Master-Master
+- Background Jobs
+	- Returning results
+	- Schedule drive
+- DNS
+- CDN
+	- Push CDN
+	- Pull CDN
+- 
