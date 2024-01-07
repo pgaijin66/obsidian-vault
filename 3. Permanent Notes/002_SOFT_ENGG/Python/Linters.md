@@ -9,3 +9,8 @@ black
 
 
 ruff
+
+
+fixit ( instagram)
+
+`pip install --pre "fixit >1"`
