@@ -14,6 +14,6 @@ Kingston - ECC Module KTHPL432E/16G
 
 Memory - 32G ( RAM )
 
-Case and Powersupply - Nanoxia - Deep silence 2 Mid tower case
+Case and Power supply - Nanoxia - Deep silence 2 Mid tower case
 
 Power fully - Be- quiet System power 9 series
