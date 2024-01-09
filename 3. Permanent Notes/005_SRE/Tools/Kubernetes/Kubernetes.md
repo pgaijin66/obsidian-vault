@@ -7,10 +7,10 @@ Tags: #kubernetes
 	2. Scaling
 2. StatefulSets
 	1. Stateful application ( stable network identities, persistent storage )
-	2. Pod have unique identity
+	2. Pod have a unique identity
 3. DaemonSets
-4. Ingresses vs Loadbalancer
-	1. Kubernetes Ingress: L7  LB, but also, routing, TLS termination, name based routing, path absed routing
+4. Ingresses vs loadbalancer
+	1. Kubernetes Ingress: L7  LB, but also, routing, TLS termination, name-based routing, path based routing
 	2. Loadbalancer: Auto provisions cloud LB, TCP/UDP load balancing, L4
 5. Service
 	6. ClusterIP
